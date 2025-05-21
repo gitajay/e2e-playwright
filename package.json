@@ -1,0 +1,13 @@
+{
+  "name": "playwright-google-test",
+  "version": "1.0.0",
+  "description": "Playwright test project for Google.com",
+  "scripts": {
+    "test": "playwright test",
+    "report": "playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.40.0",
+    "@types/node": "^22.15.21"
+  }
+}
